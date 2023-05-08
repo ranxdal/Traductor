@@ -1,0 +1,74 @@
+cin Entrada Define   una entrada de texto 
+continue continuar Se   utiliza continue en la ejecucion de un bucle. Es equivalente a ejecutar una sentencia goto al final del bucle. 
+default predeterminado Especifica   los valores predeterminados para atributos y opciones 
+delete Eliminar El   operador de asignacion dinamica delete se utiliza para liberar la memoria apuntada por su argumento (asignada utilizando new) 
+do Hacer La   instruccion do ejecuta una instruccion o un bloque de instrucciones mientras que una expresion booleana especificada se evalua como true. 
+double Doble Especificador   de tipo de dato double que declara variables y arrays de coma flotante de doble. 
+dynamic_cast Repartodinamico Este   operador se puede utilizar para moldear (convertir explicitamente) a un puntero o a un tipo referencia. 
+else Entonces Este   tiene la funcion de ejecutar una intruccion cuando se cumple una condicion 
+enum Enumeracion Tipo   de datos de valor entero que puede tomar sus valores de una lista de constantes enumerados 
+explicit Explicito Declara   un constructor explicito. Se utiliza para exponer variables pertenecientes a un archivo a uno o varios archivos adicionales 
+extern Externo Especificador   de clase de almacenamiento utilizado para indicar al compilador que una variable se declara en otra parte del programa 
+false Falso Es   un valor que puede tomar una variable de tipo booleana 
+float Flotante Es   un tipo de variable que permite almacenar numeros decimales 
+for Para permite   repetir una instruccion o una instrucci¢n compuesta un numero especificado de veces 
+friend amiga Una   funcion friend es una funcion que no es miembro de una clase pero tiene acceso a los miembros privados y protegidos de la clase goto 
+if Si Es   una funcion que permite que un programa decida si ejecuta una sentencia o un bloque de sentencias 
+inline En linea   Es una palabra clave que indica al compilador que sustituya el codigo en la definici¢n de funcion para cada instancia de una llamada a funcion 
+int entero Es   un tipo de variable que almacena numeros de tipo entero 
+long Prolongado Es   un tipo de variable que permite el almacenamiento de numeros largos no decimales 
+mutable mutable Los   datos mutables hacen referencia a una estructura de base de datos en la que estos se pueden modificar 
+Namespace Espacio de   nombres Un namespace, no es m s que una forma de crear un bloque, y que todas las funciones que est‚n dentro del mismo, est‚n asociadas a ese namespace (o espacio de nombres), al cual se le asigna un nombre para identificarlo 
+new nuevo Estos   operadores asignan memoria para los objetos de un grupo denominado almac‚n libre (tambien conocido como monton). El operador new llama a la funci¢n especial operator new 
+operator operador Simbolos   (o palabras) que representan y ejecutan una operacion en C++. 
+private privado Cuando   precede a una lista de miembros de clase, la palabra clave private especifica que esos miembros son accesibles solo desde funciones miembro y friend de la clase 
+protected protegido especifica   el acceso a los miembros de clase en member-list hasta el especificador de acceso siguiente ( public o private ) o el final de la definici¢n de clase 
+public publico Cuando   precede a una lista de miembros de clase, la palabra clave public especifica que esos miembros son accesibles desde cualquier funci¢n 
+register registro permiten   almacenar un conjunto de datos bajo un mismo nombre 
+reinterpret_cast interprete de   reparto Tipo de conversion que se utiliza por este tipo de operador .Obliga al compilador a aceptar un tipo de objeto por otro sin rechazarlo 
+return devolver Una   instruccion return termina la ejecuci¢n de una funci¢n y devuelve el control a la funci¢n de llamada 
+short corto Es   un entero de 16 bits complemento a dos. Su valor m¡nimo es -32,768 y el m ximo 32,767 (inclusive) 
+signed firmado/suscrito Define   que el valor de una variable num‚rica puede ser positivo o negativo. 
+sizeof tamano de   Proporciona  la cantidad de almacenamiento, en bytes, necesaria para almacenar un objeto del tipo operando.
+static estatico Es   una funcion que est  definida sobre un objeto, pero no cambia las propiedades del objeto 
+static_cast operador Convierte   una expresion al tipo de type-id, basansode unicamente en los tipos que se encuentran en la expresion
+struct estructura Indica   que los elementos que vienen agrupados a continuaci¢n entre llaves componen una estructura 
+switch cambiar Permite   la selecci¢n entre varias secciones de c¢digo, dependiendo del valor de una expresi¢n entera 
+template plantilla Una   plantilla es una construcci¢n que genera un tipo o funci¢n normal en tiempo de compilaci¢n en funci¢n de los argumentos que proporciona el usuario para los par metros de la plantilla 
+this esto El   puntero this es un puntero accesible solo dentro de las funciones miembro no est ticas de un tipo class, struct o union. Se¤ala al objeto para el que se llama a la funci¢n miembro 
+throw arrojar El   throw se comporta como un return. Lo que sucede es lo siguiente: el valor devuelto por el throw se asigna al objeto del catch adecuado 
+true verdadero Las   palabras clave false y true son literales que tienen valores predefinidos, false tiene el valor falso (num‚ricamente es cero), true tiene el valor cierto (num‚ricamente es uno) 
+try intentar pretende   evaluar una o m s expresiones y si dentro de dicho bloque se produce un algo que no se espera se lanza por medio de throw una excepci¢n, la misma que deber  ser capturada por un catch espec¡fico. 
+typedef definicion de   tipo Su funci¢n es asignar un nombre alternativo a tipos existentes, a menudo cuando su declaraci¢n normal es aparatosa, potencialmente confusa o probablemente variable de una implementaci¢n a otra 
+typeid ID de   tipo Identifica un operador con el que puede obtenerse el tipo de objetos y expresiones en tiempo de ejecuci¢n. Permite comprobar si un objeto es de un tipo particular, y si dos objetos son del mismo tipo 
+typename escritura de   nombre Es un especificador de tipo. Indica justamente eso, que el identificador que la acompa¤a es un tipo (aunque no se haya definido todav¡a). Una especie de declaraci¢n adelantada para que el compilador no lo rechace (al identificador) y lo tome como tal 
+union union Es   un tipo de datos derivado,como una estructura, con miembros que comparten el mismo espacio de almacenamiento. Una variable de tipo union puede contener (en momentos diferentes) objetos de diferentes tipos y tama¤os 
+unsigned sin firma   Devuelve datos numericos convertidos al tipo de datos sin signo 
+using uso Una   declaracion using para poner solo esos identificadores en el  mbito, y no todos los identificadores del espacio de nombres 
+virtual virtual Es   una funcion que es declarada como 'virtual' en una clase base y es redefinida en una o m s clases derivadas 
+void vacio Cuando   se usa como un tipo de valor devuelto de funci¢n, la palabra clave void especifica que la funci¢n no devuelve ning£n valor 
+volatile volatil Calificador   de tipo que puede utilizar para declarar que el hardware puede modificar un objeto en el programa 
+while mientras Permite   repetir una instrucci¢n hasta que una expresi¢n especificada sea false 
+asm ensamblador Se   utiliza para incluir directamente codigo ensamblador en su programa C++. El uso correcto de asm depende de laÿimplementacion 
+auto Auto Es   una manera sencilla de declarar una variable que tiene un tipo complicado 
+bool booleano Es   un lenguaje de programacion orientado a objetos, de tipos estaticos para la Common Language Infrastructure con una sintaxis inspirada en Python y un enfasis en la extensibilidad del lenguaje y su compilador 
+break romper Finaliza   la ejecucion del bucle o la instrucci¢n condicional envolvente mss proximo en el que aparece 
+case caso se   refiere al desarrollo y mantenimiento de proyectos de Software con la ayuda de varias herramientas automatizadas 
+catch atrapar Senala   un bloque de instrucciones a intentar ( try ), y especifica una respuesta si se produce una excepci¢n ( catch ) 
+char caracter Se   usa para almacenar el valor entero de un miembro del juego de caracteres que se puede representar 
+class clase Es   un elemento de la programaci¢n orientada a objetos que act£a como una plantilla y va a definir las caracter¡sticas y comportamientos de una entidad 
+const constante Especifica   que el valor de una variable es constante e indica al compilador que evite que el programador lo modifique 
+const_cast operador constante    Convierte un valor de puntero nulo al valor de puntero nulo del tipo de destino como punto de partida para la ejecucion del programa 
+cout salida Permite   mostrar por pantalla cualquier tipo de dato 
+string cadena de   texto Secuencia de caracteres guardados como una matriz de caracteres terminados en un caracter nulo 
+main principal Sirve   como punto de partida para la ejecucion del programa 
+dllimport atributo para   importar proporciona la informacion necesaria para llamar una funcion exportada desde un archivo DLL no administrado 
+selectany seleccionar indica   al compilador que el elemento de datos globales declarado es un COMDAT de seleccion (una funcion empaquetada) 
+deprecated desaprobado indica   que el nombre o entidad declarada con este atributo esta en desuso 
+naked desnudo Puede   utilizar esta caracteristica para escribir sus propias secuencias de codigo de prologo/epilogo del ensamblador alineado 
+noreturn sin retorno   indica al compilador que la funcion a la que se ha aplicado no devuelve un valor al autor de la llamada 
+register registar es   un especificador de tipo de almacenamiento, se utiliza para indicar al compilador que ciertas variables deber estar almacenadas en los registros del procesador en lugar de la pila
+endl fin de la linea acaba la linea y pasa a la siguiente 
+
+exit salida se devuelve al sistema operativo como codigo de retorno o codigo de salida del programa 
+

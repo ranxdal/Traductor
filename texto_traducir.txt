@@ -1,0 +1,20 @@
+int main (){
+string continuar;
+cout <<"Desea continuar si/no :";
+cin >> continuar ;
+if ( continuar == "si"){
+cout <<"Gracias.."<< endl ;
+} else {
+ exit (1);
+}
+ return 0;
+}
+
+endl
+fin de la linea
+acaba la linea y pasa a la siguiente
+
+exit
+salida
+se devuelve al sistema operativo como código de retorno o código de salida del programa
+
